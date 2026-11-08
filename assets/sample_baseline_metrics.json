@@ -1,0 +1,13 @@
+{
+  "dataset": "synthetic, aligned components",
+  "method": "fixed normal-reference median (not a neural network)",
+  "image_auroc": 1.0,
+  "defect_only_pixel_auroc": 0.9985540230345001,
+  "defect_only_pixel_iou_at_normal_validation_threshold": 0.5164827680152568,
+  "validation_image_threshold": 0.013087625615298748,
+  "false_positive_rate_on_test_normals": 0.125,
+  "true_positive_rate_on_test_defects": 1.0,
+  "pixel_heatmap_visualization_threshold": 0.013447323814034462,
+  "test_normal_images": 24,
+  "test_defective_images": 24
+}

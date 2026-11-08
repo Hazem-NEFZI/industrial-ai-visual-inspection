@@ -1,0 +1,19 @@
+{
+  "data": "synthetic",
+  "architecture": "convolutional autoencoder",
+  "device": "cpu",
+  "epochs": 5,
+  "train_reconstruction_l1": [
+    0.1238718330860138,
+    0.08440285796920459,
+    0.07754548887411754,
+    0.07197648659348488,
+    0.07110389322042465
+  ],
+  "validation_threshold_95pct": 0.35291545242071154,
+  "test_image_auroc": 0.7576530612244898,
+  "test_normal_false_positive_rate": 0.07142857142857142,
+  "test_defect_true_positive_rate": 0.5,
+  "test_normal_images": 28,
+  "test_defective_images": 28
+}
